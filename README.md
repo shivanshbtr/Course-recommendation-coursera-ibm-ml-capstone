@@ -20,9 +20,9 @@ Course-recommendation-coursera-ibm-ml-capstone/
 │
 ├── README.md
 │
-└── ibm-ml-capstone/
-    │
-    ├── Course_Work/                          # Lab notebooks (guided IBM course labs)
+├── ibm-ml-capstone/
+|   │
+|   ├── Course_Work/                          # Lab notebooks (guided IBM course labs)
 │   ├── 01_lab_jupyter_eda.ipynb                        # Exploratory Data Analysis
 │   ├── 02_lab_jupyter_fe_bow_solution.ipynb            # Feature Engineering: Bag of Words
 │   ├── 03_lab_jupyter_content_user_profile.ipynb       # Content-Based: User Profiles
